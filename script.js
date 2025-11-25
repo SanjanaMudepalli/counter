@@ -2,7 +2,6 @@ const increase = document.querySelector('.in-button')
 const reset = document.querySelector('.reset-button')
 const decrease = document.querySelector('.de-button')
 let element = document.querySelector('.counter-value')
-
 let counter = 0
 increase.addEventListener('click',function(e){
     counter += 1
