@@ -1,0 +1,42 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    height:100vh;
+}
+
+.main-div{
+    height:100%;
+    
+}
+
+.bg{
+    background-color: rgb(187, 187, 187);
+    padding:5%;
+    width:70%;
+    border-radius: 8px;
+    margin:auto;
+    text-align: center;
+    margin-top:10%;
+}
+
+.counter-heading{
+    font-size: 2rem;
+    font-family: sans-serif;
+    font-weight: 800;
+}
+
+.counter-value{
+    font-size: 2rem;
+    font-family: sans-serif;
+    font-weight: 800;
+}
+
+.button{
+    border-radius: 4px;
+    padding:1%;
+    border: 0;
+}
